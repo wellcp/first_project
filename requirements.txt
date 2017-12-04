@@ -1,0 +1,14 @@
+certifi==2017.11.5
+chardet==3.0.4
+conda==4.3.16
+dj-database-url==0.4.2
+dj-static==0.0.6
+idna==2.6
+pycosat==0.6.3
+python-decouple==3.1
+requests==2.18.4
+ruamel.yaml==0.15.34
+static3==0.7.0
+urllib3==1.22
+gunicorn==19.4.1
+psycopg2==2.6.1
