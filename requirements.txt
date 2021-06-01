@@ -9,7 +9,7 @@ python-decouple==3.1
 requests==2.18.4
 ruamel.yaml==0.15.34
 static3==0.7.0
-urllib3==1.22
+urllib3==1.26.5
 gunicorn==19.4.1
 psycopg2==2.6.1
 Django==1.11.3
